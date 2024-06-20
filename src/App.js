@@ -1,4 +1,4 @@
-import { Helmet, HelmetProvider } from 'react-helmet-async';
+import {  HelmetProvider } from 'react-helmet-async';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Landing from './components/Landing';
 import AboutUs from './components/About';
